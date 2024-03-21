@@ -1,0 +1,40 @@
+{
+    "name": "codenip-tech/design-patterns-in-php",
+    "description": "Design patterns in PHP by Codenip",
+    "authors": [
+        {
+            "name": "Juan González",
+            "email": "codenip.official@gmail.com"
+        }
+    ],
+    "type": "project",
+    "license": "proprietary",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=8.3"
+    },
+    "require-dev": {
+        "friendsofphp/php-cs-fixer": "^3.52",
+        "phpunit/phpunit": "10.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Codenip\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Codenip\\Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "fix:style": [
+            "vendor/bin/php-cs-fixer fix src",
+            "vendor/bin/php-cs-fixer fix tests"
+        ],
+        "test": [
+            "vendor/bin/phpunit -c tests/phpunit.xml"
+        ]
+    }
+}
