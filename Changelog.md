@@ -2,6 +2,7 @@
 
 ### 2024-04-11
 - Create example of Static Factory pattern and its tests
+- Create example of Simple Factory pattern and its tests
 
 ### 2024-04-04
 - Create example of Adapter pattern and its tests
