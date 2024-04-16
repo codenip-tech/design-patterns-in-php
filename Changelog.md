@@ -1,5 +1,8 @@
 # Change Log
 
+### 2024-04-16
+- Create example of Factory Method pattern and its tests
+
 ### 2024-04-11
 - Create example of Static Factory pattern and its tests
 - Create example of Simple Factory pattern and its tests
