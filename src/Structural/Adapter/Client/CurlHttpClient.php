@@ -15,6 +15,8 @@ use function curl_getinfo;
 use function curl_init;
 use function curl_setopt;
 use function explode;
+use function mb_strlen;
+use function mb_substr;
 use function str_contains;
 use function trim;
 
