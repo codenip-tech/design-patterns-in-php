@@ -1,5 +1,8 @@
 # Change Log
 
+### 2024-04-25
+- Create example of Iterator pattern and its tests
+
 ### 2024-04-18
 - Create example of Abstract Factory pattern and its tests
 
