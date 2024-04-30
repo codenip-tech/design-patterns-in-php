@@ -1,5 +1,8 @@
 # Change Log
 
+### 2024-04-30
+- Create example of Memento pattern and its tests
+
 ### 2024-04-25
 - Create example of Iterator pattern and its tests
 
