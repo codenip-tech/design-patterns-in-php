@@ -1,5 +1,8 @@
 # Change Log
 
+### 2024-05-02
+- Create example of Observer pattern and its tests
+
 ### 2024-04-30
 - Create example of Memento pattern and its tests
 
