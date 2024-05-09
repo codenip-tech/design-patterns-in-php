@@ -1,5 +1,8 @@
 # Change Log
 
+### 2024-05-09
+- Create example of Strategy pattern and its tests
+
 ### 2024-05-07
 - Create example of Facade pattern and its tests
 
