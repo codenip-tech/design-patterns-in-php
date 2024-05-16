@@ -1,5 +1,8 @@
 # Change Log
 
+### 2024-05-16
+- Create example of Decorator pattern and its tests
+
 ### 2024-05-14
 - Create example of Dependency Injection pattern and its tests
 
